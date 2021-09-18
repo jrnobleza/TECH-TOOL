@@ -67,7 +67,7 @@
 **Online Tools**
 1.  P2P File Transfer - https://www.sharedrop.io/
 2.  File Transfer Calculator - https://www.expedient.com/knowledgebase/tools-and-calculators/file-transfer-time-calculator/
-3.  Send Large Files Securely - https://www.dropsend.com/
+3.  Send Large Files Securely - https://www.dropsend.com/ , https://wetransfer.com/
 
 **Tips**
 1. The Best IT Career Advice from 111 Industry Gurus - https://www.flackbox.com/best-it-career-advice
