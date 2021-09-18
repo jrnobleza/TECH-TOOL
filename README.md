@@ -55,12 +55,14 @@
 **SAP BASIS**
 1. SAP Support Portal - https://support.sap.com/en/index.html
 2. SAP Technology Troubleshooting Guide - https://wiki.scn.sap.com/wiki/display/TechTSG/%28JSTTSG%29Main+Page
-3. Basis Task / Activities - https://basisbynaveen.blogspot.com/2019/08/blog-post.html
-4. Basis Daily Monitoring T-Codes - https://blogs.sap.com/2020/10/19/basis-daily-monitoring-t-codes/
-5. SAP Monitoring & Performance Checks: Complete Tutorial with Tcodes - https://www.guru99.com/system-monitoring-performance-checks.html
+3. NIPING to analyze SAP network connection - https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=360974069
+4. Basis Task / Activities - https://basisbynaveen.blogspot.com/2019/08/blog-post.html
+5. Basis Daily Monitoring T-Codes - https://blogs.sap.com/2020/10/19/basis-daily-monitoring-t-codes/
+6. SAP Monitoring & Performance Checks: Complete Tutorial with Tcodes - https://www.guru99.com/system-monitoring-performance-checks.html
 
 **Linux**
 1. Explain shell command - https://explainshell.com/
+2. Unix Rosetta Stone - http://bhami.com/rosetta.html
 
 **Windows Application**
 1. JAVA Dump Test - https://jstack.review/#tda_1_dump
@@ -71,6 +73,7 @@
 6. Wink (Create amazing screencasts and step-by-step video) - https://www.debugmode.com/wink/
 7. Free Online Screen Recorder - https://www.apowersoft.com/free-online-screen-recorder
 8. PDF Merge, split, rotate, convert tools - https://pdfsam.org/ , https://smallpdf.com/pdf-to-jpg , https://www.ilovepdf.com/pdf_to_jpg
+9. Everything. Locate files and folders by name instantly - https://www.voidtools.com/downloads/
 
 **Antivirus**
 1. File Scan Test - https://opentip.kaspersky.com/
@@ -90,7 +93,10 @@
 5. Putty - https://www.putty.org/
 6. Remote Utilities for Windows - https://www.remoteutilities.com/download/
 
-
+**Simulation Tool**
+1. Free EVENG Community Edition - https://www.eve-ng.net/index.php/download/#DL-COMM
+2. GNS3 - https://www.gns3.com/software/download
+3. Packet Tracer - https://www.netacad.com/courses/packet-tracer/introduction-packet-tracer
 
 **Online Tools**
 1.  P2P File Transfer - https://www.sharedrop.io/
