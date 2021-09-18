@@ -23,6 +23,7 @@
 16. CurrPorts v2.65 - Monitoring Opened TCP/IP network ports  - https://www.nirsoft.net/utils/cports.html
 17. Packet Sender - https://packetsender.com/
 18. DU Meter Internet monitor - https://www.hageltech.com/dumeter/download
+19. Port Forwarding Guides - http://www.pcwintech.com/port-forwarding-guides
 
 
 **WEB Services Checker**
@@ -47,20 +48,23 @@
 **Desktop/Laptop:**
 1. Keyboard Test - https://www.keyboardtester.com/tester.html
 2. Monitor Test - https://www.eizo.be/monitor-test/
-3. CPU Test - https://silver.urih.com/
-4. RAM Test - https://peyty.github.io/web-online-ram-speed-test/
-5. HDD Test - https://hddscan.com/
-6. VGA Test - https://geeks3d.com/furmark/
-7. Windows Task Manager: The Complete Guide - https://www.howtogeek.com/405806/windows-task-manager-the-complete-guide/
-8. Hirens Boot Disk Win 10 PE - https://www.hirensbootcd.org/download/ , 
-9. Gandalf's Win 10 - https://getintopc.com/softwares/operating-systems/gandalfs-windows-10-pe-live-rescue-iso-free-download-1532160/
-10. Strelec Boot Disk Win 10 PE - https://sergeistrelec.ru/winpe-10-8-sergei-strelec-english/206-winpe-10-8-sergei-strelec-x86-x64-native-x86-20210721-english-version.html
-11. Lenovo Parts Lookup - https://support.lenovo.com/ph/en/partslookup
-12. Dell Product Support - https://www.dell.com/support/home/en-us?app=products
-13. Unwanted Program Checker - https://www.shouldiremoveit.com/
-14. CPU Info, Monitor, Test - https://www.cpuid.com/
-15. Windows Crash Report Tool - https://www.nirsoft.net/utils/what_is_hang.html
-16. BurnIn Test - https://www.passmark.com/products/burnintest/
+3. CPU Test - https://silver.urih.com/ 
+4. CPU Benchmark - https://www.cpubenchmark.net/ , https://www.tomshardware.com/reviews/cpu-hierarchy,4312.html
+5. RAM Test - https://peyty.github.io/web-online-ram-speed-test/
+6. HDD Test - https://hddscan.com/
+7. VGA Test - https://geeks3d.com/furmark/
+8. Windows Task Manager: The Complete Guide - https://www.howtogeek.com/405806/windows-task-manager-the-complete-guide/
+9. Hirens Boot Disk Win 10 PE - https://www.hirensbootcd.org/download/ , 
+10. Gandalf's Win 10 - https://getintopc.com/softwares/operating-systems/gandalfs-windows-10-pe-live-rescue-iso-free-download-1532160/
+11. Strelec Boot Disk Win 10 PE - https://sergeistrelec.ru/winpe-10-8-sergei-strelec-english/206-winpe-10-8-sergei-strelec-x86-x64-native-x86-20210721-english-version.html
+12. Lenovo Parts Lookup - https://support.lenovo.com/ph/en/partslookup
+13. Dell Product Support - https://www.dell.com/support/home/en-us?app=products
+14. Unwanted Program Checker - https://www.shouldiremoveit.com/
+15. CPU Info, Monitor, Test - https://www.cpuid.com/
+16. Windows Crash Report Tool - https://www.nirsoft.net/utils/what_is_hang.html
+17. BurnIn Test - https://www.passmark.com/products/burnintest/
+18. POWER SUPPLY CALCULATOR - https://www.coolermaster.com/power-supply-calculator/
+19. Proper laptop battery usage guide - https://batterycare.net/en/guide.html
 
 **SAP BASIS**
 1. SAP Support Portal - https://support.sap.com/en/index.html
@@ -74,6 +78,7 @@
 1. Explain shell command - https://explainshell.com/
 2. Unix Rosetta Stone - http://bhami.com/rosetta.html
 3. JSLinux Run Linux in your browser! - https://bellard.org/jslinux/
+4. Linux Distribution Timeline - https://github.com/FabioLolix/LinuxTimeline
 
 **Windows Application**
 1. JAVA Dump Test - https://jstack.review/#tda_1_dump
@@ -92,10 +97,18 @@
 **Antivirus**
 1. File Scan Test - https://opentip.kaspersky.com/
 2. Ransomware - https://www.nomoreransom.org/crypto-sheriff.php
+3. Independent Tests of Anti-Virus Software - https://www.av-comparatives.org/ , https://www.av-test.org/en/
+4. Trend Micro Ransomware File Decryptor - https://success.trendmicro.com/solution/1114221-downloading-and-using-the-trend-micro-ransomware-file-decryptor
+5. Ransomware Decryption Tools - https://www.thewindowsclub.com/list-ransomware-decryptor-tools
+6. Kaspersky - https://noransom.kaspersky.com/
+7. Additional ransomware resources - https://docs.microsoft.com/en-us/security/compass/human-operated-ransomware
 
 **Servers**
 1. RAID Calculator - http://www.raid-calculator.com/
 2. Server Windows Admin Free Tools - https://www.manageengine.com/products/free-windows-tools/free-windows-tools-thanks.html
+3. Back up your files -  http://www.worldbackupday.com/en/
+4. The Cloud Native Trail Map - https://landscape.cncf.io/
+5. Recover Files via CMD - https://www.minitool.com/data-recovery/recover-files-using-cmd-001.html
 
 **Passwords**
 1. Secure Password Generator - https://passwordsgenerator.net/
