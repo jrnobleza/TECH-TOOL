@@ -16,8 +16,9 @@
 10. Email Generator / temporary email address - https://generator.email/
 11. Website Speed Test - https://tools.pingdom.com/
 12. Check Website Availability - https://www.site24x7.com/check-website-availability.html
-13. Public IP Checker - https://ipchicken.com/ , http://ipcalf.com/
+13. Public IP Checker - https://ipchicken.com/ 
 14. Reverse IP Lookup - https://reverseip.domaintools.com/
+15. Local Network IP - https://net.ipcalf.com/
 
 
 **WEB Services Checker**
@@ -46,11 +47,12 @@
 4. RAM Test - https://peyty.github.io/web-online-ram-speed-test/
 5. HDD Test - https://hddscan.com/
 6. VGA Test - https://geeks3d.com/furmark/
-7. Hirens Boot Disk Win 10 PE - https://www.hirensbootcd.org/download/ , 
-8. Gandalf's Win 10 - https://getintopc.com/softwares/operating-systems/gandalfs-windows-10-pe-live-rescue-iso-free-download-1532160/
-9. Strelec Boot Disk Win 10 PE - https://sergeistrelec.ru/winpe-10-8-sergei-strelec-english/206-winpe-10-8-sergei-strelec-x86-x64-native-x86-20210721-english-version.html
-10. Lenovo Parts Lookup - https://support.lenovo.com/ph/en/partslookup
-11. Dell Product Support - https://www.dell.com/support/home/en-us?app=products
+7. Windows Task Manager: The Complete Guide - https://www.howtogeek.com/405806/windows-task-manager-the-complete-guide/
+8. Hirens Boot Disk Win 10 PE - https://www.hirensbootcd.org/download/ , 
+9. Gandalf's Win 10 - https://getintopc.com/softwares/operating-systems/gandalfs-windows-10-pe-live-rescue-iso-free-download-1532160/
+10. Strelec Boot Disk Win 10 PE - https://sergeistrelec.ru/winpe-10-8-sergei-strelec-english/206-winpe-10-8-sergei-strelec-x86-x64-native-x86-20210721-english-version.html
+11. Lenovo Parts Lookup - https://support.lenovo.com/ph/en/partslookup
+12. Dell Product Support - https://www.dell.com/support/home/en-us?app=products
 
 **SAP BASIS**
 1. SAP Support Portal - https://support.sap.com/en/index.html
