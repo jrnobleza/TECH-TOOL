@@ -5,7 +5,7 @@
 2. Discover what’s really happening online - https://www.similarweb.com/
 
 **Network/Internet**
-1. Internet Speed Test - https://fast.com/
+1. Internet Speed Test - https://fast.com/ ,  http://wifiman.com/
 2. SSL Test - https://www.ssllabs.com/ssltest/ , https://www.whynopadlock.com/
 3. Free website security check & malware scanner Test - https://sitecheck.sucuri.net/
 4. Port Forward Test - https://www.yougetsignal.com/tools/open-ports/
@@ -106,6 +106,15 @@
 1. Free EVENG Community Edition - https://www.eve-ng.net/index.php/download/#DL-COMM
 2. GNS3 - https://www.gns3.com/software/download
 3. Packet Tracer - https://www.netacad.com/courses/packet-tracer/introduction-packet-tracer
+4. Asus - https://demoui.asus.com/
+5. Dlink - https://routers.wtf/emul/DlinkOrange%20OFFLINE/index-2.html
+6. NETIS - https://www.netis-systems.com/Suppory/emulators.html
+7. Belkin - http://ui.belkin.com/
+8. Linksys - https://ui.linksys.com/
+9. Netgear - https://highspeed.tips/files/emulators/netgear_genie/start.html
+10. Router Emulators - https://highspeed.tips/routers/
+11. TENDA - https://www.tendacn.com/en/service/page/simulator.html
+12. TP LINK - https://www.tp-link.com/us/support/emulator/
 
 **Online Tools**
 1.  P2P File Transfer - https://www.sharedrop.io/
