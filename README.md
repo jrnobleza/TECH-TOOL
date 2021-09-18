@@ -22,7 +22,7 @@
 15. Local Network IP - https://net.ipcalf.com/
 16. CurrPorts v2.65 - Monitoring Opened TCP/IP network ports  - https://www.nirsoft.net/utils/cports.html
 17. Packet Sender - https://packetsender.com/
-18.
+18. DU Meter Internet monitor - https://www.hageltech.com/dumeter/download
 
 
 **WEB Services Checker**
@@ -59,6 +59,8 @@
 12. Dell Product Support - https://www.dell.com/support/home/en-us?app=products
 13. Unwanted Program Checker - https://www.shouldiremoveit.com/
 14. CPU Info, Monitor, Test - https://www.cpuid.com/
+15. Windows Crash Report Tool - https://www.nirsoft.net/utils/what_is_hang.html
+16. BurnIn Test - https://www.passmark.com/products/burnintest/
 
 **SAP BASIS**
 1. SAP Support Portal - https://support.sap.com/en/index.html
@@ -137,3 +139,4 @@
 
 **Tips**
 1. The Best IT Career Advice from 111 Industry Gurus - https://www.flackbox.com/best-it-career-advice
+2. The Busy Person's Guide to the Done List - https://app.idonethis.com/docs/The-Busy-Persons-Guide-to-the-Done-List.pdf
