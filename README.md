@@ -9,7 +9,7 @@
 3. Free website security check & malware scanner Test - https://sitecheck.sucuri.net/
 4. Port Forward Test - https://www.yougetsignal.com/tools/open-ports/
 5. Download Test Files - https://www.thinkbroadband.com/download
-6. Traceroute test - https://gf.dev/traceroute-test
+6. Traceroute test - https://gf.dev/traceroute-test, https://www.site24x7.com/tools/trace-route.html
 7. Site test - https://gf.dev/toolbox
 8. Cisco IOS - http://tfr.org/cisco-ios/
 9. Monitoring Opened TCP/IP network ports / connections - https://www.nirsoft.net/utils/cports.html
@@ -17,22 +17,26 @@
 11. Website Speed Test - https://tools.pingdom.com/
 12. Check Website Availability - https://www.site24x7.com/check-website-availability.html
 13. Public IP Checker - https://ipchicken.com/
+14. Reverse IP Lookup - https://reverseip.domaintools.com/
 
 
-**Application Service Status**\
+**Application Service Status Checker**
 1. AWS / Amazon - https://status.aws.amazon.com/
 2. Cisco Umbrella - https://status.umbrella.com/#/
-3. Cloudflare - https://www.cloudflarestatus.com/
-4. Facebook - https://status.fb.com/graph-api
-5. LinkedIn - https://linkedin.statuspage.io/
-6. Microsoft Office - https://portal.office.com/servicestatus
-7. Microsoft Update Catalog - https://www.catalog.update.microsoft.com/home.aspx
-8. Oracle - https://ocistatus.oraclecloud.com/
-9. SAP Cloud - https://www.sap.com/uk/about/trust-center/cloud-service-status.html
-10. Sonciwall - https://status.sonicwall.com/
-11. Watchguard - https://status.dnswatch.watchguard.com/
-12. Real-time problem & outage monitoring - https://downdetector.com/
-13. Status Consolidator - https://statusgator.com/users/sign_in#
+3. Cisco Tool Catalog - https://www.cisco.com/c/en/us/support/web/tools-catalog.html#/
+4. Cisco Check Device Coverage - https://cway.cisco.com/sncheck/
+5. Cloudflare - https://www.cloudflarestatus.com/
+6. Facebook - https://status.fb.com/graph-api
+7. LinkedIn - https://linkedin.statuspage.io/
+8. Microsoft Office - https://portal.office.com/servicestatus
+9. Microsoft Update Catalog - https://www.catalog.update.microsoft.com/home.aspx
+10. Oracle - https://ocistatus.oraclecloud.com/
+11. SAP Cloud - https://www.sap.com/uk/about/trust-center/cloud-service-status.html
+12. Sonicwall - https://status.sonicwall.com/
+13. Watchguard - https://status.dnswatch.watchguard.com/
+14. Real-time problem & outage monitoring - https://downdetector.com/
+15. Monitors the status of your favorite web services - https://www.isitdownrightnow.com/
+16. Status Consolidator - https://statusgator.com/users/sign_in#
 
 
 **Desktop/Laptop:**
@@ -51,6 +55,9 @@
 3. Basis Task / Activities - https://basisbynaveen.blogspot.com/2019/08/blog-post.html
 4. Basis Daily Monitoring T-Codes - https://blogs.sap.com/2020/10/19/basis-daily-monitoring-t-codes/
 5. SAP Monitoring & Performance Checks: Complete Tutorial with Tcodes - https://www.guru99.com/system-monitoring-performance-checks.html
+
+**Linux**
+1. Explain shell command - https://explainshell.com/
 
 **Windows Application**
 1. JAVA Dump Test - https://jstack.review/#tda_1_dump
