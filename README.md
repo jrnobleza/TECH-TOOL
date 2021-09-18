@@ -67,6 +67,7 @@
 5. TreeSize Quick Windows Scan Directory - https://www.jam-software.com/treesize_free
 6. Wink (Create amazing screencasts and step-by-step video) - https://www.debugmode.com/wink/
 7. Free Online Screen Recorder - https://www.apowersoft.com/free-online-screen-recorder
+8. PDF Merge, split, rotate, convert tools - https://pdfsam.org/ , https://smallpdf.com/pdf-to-jpg , https://www.ilovepdf.com/pdf_to_jpg
 
 **Antivirus**
 1. File Scan Test - https://opentip.kaspersky.com/
@@ -84,6 +85,7 @@
 3. AnyDesk - https://anydesk.com/en/downloads/windows
 4. WinScp - https://winscp.net/eng/download.php
 5. Putty - https://www.putty.org/
+6. Remote Utilities for Windows - https://www.remoteutilities.com/download/
 
 **Online Tools**
 1.  P2P File Transfer - https://www.sharedrop.io/
