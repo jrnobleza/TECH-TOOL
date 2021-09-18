@@ -20,7 +20,7 @@
 14. Reverse IP Lookup - https://reverseip.domaintools.com/
 
 
-**Application Service Status Checker**
+**WEB Services Checker**
 1. AWS / Amazon - https://status.aws.amazon.com/
 2. Cisco Umbrella - https://status.umbrella.com/#/
 3. Cisco Tool Catalog - https://www.cisco.com/c/en/us/support/web/tools-catalog.html#/
