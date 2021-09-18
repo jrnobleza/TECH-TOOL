@@ -2,6 +2,7 @@
 
 **Latest Product Updates**
 1. Best products - https://www.producthunt.com/
+2. Discover what’s really happening online - https://www.similarweb.com/
 
 **Network/Internet**
 1. Internet Speed Test - https://fast.com/
@@ -65,6 +66,7 @@
 **Linux**
 1. Explain shell command - https://explainshell.com/
 2. Unix Rosetta Stone - http://bhami.com/rosetta.html
+3. JSLinux Run Linux in your browser! - https://bellard.org/jslinux/
 
 **Windows Application**
 1. JAVA Dump Test - https://jstack.review/#tda_1_dump
