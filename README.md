@@ -16,7 +16,7 @@
 10. Email Generator / temporary email address - https://generator.email/
 11. Website Speed Test - https://tools.pingdom.com/
 12. Check Website Availability - https://www.site24x7.com/check-website-availability.html
-13. Public IP Checker - https://ipchicken.com/
+13. Public IP Checker - https://ipchicken.com/ , http://ipcalf.com/
 14. Reverse IP Lookup - https://reverseip.domaintools.com/
 
 
@@ -46,8 +46,11 @@
 4. RAM Test - https://peyty.github.io/web-online-ram-speed-test/
 5. HDD Test - https://hddscan.com/
 6. VGA Test - https://geeks3d.com/furmark/
-7. Lenovo Parts Lookup - https://support.lenovo.com/ph/en/partslookup
-8. Dell Product Support - https://www.dell.com/support/home/en-us?app=products
+7. Hirens Boot Disk Win 10 PE - https://www.hirensbootcd.org/download/ , 
+8. Gandalf's Win 10 - https://getintopc.com/softwares/operating-systems/gandalfs-windows-10-pe-live-rescue-iso-free-download-1532160/
+9. Strelec Boot Disk Win 10 PE - https://sergeistrelec.ru/winpe-10-8-sergei-strelec-english/206-winpe-10-8-sergei-strelec-x86-x64-native-x86-20210721-english-version.html
+10. Lenovo Parts Lookup - https://support.lenovo.com/ph/en/partslookup
+11. Dell Product Support - https://www.dell.com/support/home/en-us?app=products
 
 **SAP BASIS**
 1. SAP Support Portal - https://support.sap.com/en/index.html
@@ -86,6 +89,8 @@
 4. WinScp - https://winscp.net/eng/download.php
 5. Putty - https://www.putty.org/
 6. Remote Utilities for Windows - https://www.remoteutilities.com/download/
+
+
 
 **Online Tools**
 1.  P2P File Transfer - https://www.sharedrop.io/
