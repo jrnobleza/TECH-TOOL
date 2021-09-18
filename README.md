@@ -27,6 +27,8 @@
 20. OpenvSwitch - http://www.openvswitch.org/download/
 21. Load Balancer - https://freeloadbalancer.com/download/
 22. OpenVPN - https://openvpn.net/
+23. Network Diagram - https://app.diagrams.net/
+24. Free SSL - https://zerossl.com/features/installation/
 
 
 **WEB Services Checker**
@@ -69,6 +71,7 @@
 18. BurnIn Test - https://www.passmark.com/products/burnintest/
 19. POWER SUPPLY CALCULATOR - https://www.coolermaster.com/power-supply-calculator/
 20. Proper laptop battery usage guide - https://batterycare.net/en/guide.html
+21. Cloning - https://fogproject.org/download
 
 **SAP BASIS**
 1. SAP Support Portal - https://support.sap.com/en/index.html
@@ -115,11 +118,21 @@
 5. Recover Files via CMD - https://www.minitool.com/data-recovery/recover-files-using-cmd-001.html
 6. HPE Warranty Status - https://support.hpe.com/hpsc/wc/public/home
 7. ClearOS - https://www.clearos.com/products/purchase/clearos-downloads
+8. OwnCloud - https://owncloud.com/download-server/
+9. Multi-Boot PXE server - https://erpxe.com/download/
+10. SQUID Proxy - http://www.squid-cache.org/Versions/
+11. RDS Setup - https://ryanmangansitblog.com/2013/03/27/deploying-remote-desktop-gateway-rds-2012/
 
 **Storage**
 1. Open Media Vault - https://www.openmediavault.org/?page_id=77
 2. Emby - https://emby.media/download.html
 3. Kodi - https://kodi.tv/download/
+4. TrueNAS CORE (FREENAS) - https://www.truenas.com/download-truenas-core/
+5. XigmaNAS - https://xigmanas.com/xnaswp/download/
+ 
+
+**Backup**
+1. Veeam - https://www.veeam.com/windows-endpoint-server-backup-free.html
 
 **Virtualization**
 1. oVirt - https://www.ovirt.org/
@@ -129,7 +142,7 @@
 5. Proxmox - https://proxmox.com/en/downloads
 6. VMware - https://www.vmware.com/products/vsphere-hypervisor.html
 7. Citrix - https://www.citrix.com/downloads/citrix-hypervisor/
-8. 
+8. PushOver (real-time notifications on your Phone) - https://pushover.net/
 
 **Monitoring**
 1. Cacti - https://www.cacti.net/info/downloads
@@ -138,6 +151,7 @@
 4. Observium - https://docs.observium.org/
 5. Munin - https://munin-monitoring.org/download/
 6. Graylog - https://www.graylog.org/products/open-source#download-open
+7. 
 
 **Passwords**
 1. Secure Password Generator - https://passwordsgenerator.net/
@@ -181,6 +195,7 @@
 2. Sophos - https://www.sophos.com/en-us/products/free-tools/sophos-xg-firewall-home-edition.aspx
 3. Metiix Blockade - http://www.metiix.com/blockade/downloads
 4. SmoothWall - https://smoothwall.org/download.html
+5. iSPY - https://www.ispyconnect.com/download.aspx
 
 
 
@@ -194,7 +209,13 @@
 7.  QUIRE visual collaborative platform - https://quire.io/
 8.  Whiteboard Online - https://witeboard.com/486643b0-606f-11eb-9c72-e7dcffcdf18e
 9.  Stream Movies Free - https://www.plex.tv/watch-free/
+10. HomeLab Collection - https://www.reddit.com/r/homelab/comments/42zc51/homelab_collective_ressources_post/
+11. BlockDiag simple diagram images generator - http://blockdiag.com/en/
+12. Visio - http://www.visiocafe.com/
 
 **Tips**
 1. The Best IT Career Advice from 111 Industry Gurus - https://www.flackbox.com/best-it-career-advice
 2. The Busy Person's Guide to the Done List - https://app.idonethis.com/docs/The-Busy-Persons-Guide-to-the-Done-List.pdf
+3. How did you get your start as Linux Admin? - https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma/
+4. Practice to become a Windows sysadmin? - https://www.reddit.com/r/sysadmin/comments/3z7qd9/practice_to_become_a_windows_sysadmin/cyjynxh/
+5. 
