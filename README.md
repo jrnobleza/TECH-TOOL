@@ -20,6 +20,8 @@
 13. Public IP Checker - https://ipchicken.com/ 
 14. Reverse IP Lookup - https://reverseip.domaintools.com/
 15. Local Network IP - https://net.ipcalf.com/
+16. CurrPorts v2.65 - Monitoring Opened TCP/IP network ports  - https://www.nirsoft.net/utils/cports.html
+17. Packet Sender - https://packetsender.com/
 
 
 **WEB Services Checker**
@@ -54,6 +56,7 @@
 10. Strelec Boot Disk Win 10 PE - https://sergeistrelec.ru/winpe-10-8-sergei-strelec-english/206-winpe-10-8-sergei-strelec-x86-x64-native-x86-20210721-english-version.html
 11. Lenovo Parts Lookup - https://support.lenovo.com/ph/en/partslookup
 12. Dell Product Support - https://www.dell.com/support/home/en-us?app=products
+13. Unwanted Program Checker - https://www.shouldiremoveit.com/
 
 **SAP BASIS**
 1. SAP Support Portal - https://support.sap.com/en/index.html
@@ -78,6 +81,7 @@
 7. Free Online Screen Recorder - https://www.apowersoft.com/free-online-screen-recorder
 8. PDF Merge, split, rotate, convert tools - https://pdfsam.org/ , https://smallpdf.com/pdf-to-jpg , https://www.ilovepdf.com/pdf_to_jpg
 9. Everything. Locate files and folders by name instantly - https://www.voidtools.com/downloads/
+10. MacroRecorder - Record mouse and keyboard actions for infinite replay - https://www.macrorecorder.com/
 
 **Antivirus**
 1. File Scan Test - https://opentip.kaspersky.com/
@@ -88,6 +92,7 @@
 
 **Passwords**
 1. Secure Password Generator - https://passwordsgenerator.net/
+2. Auto-pilot for all your passwords - https://www.lastpass.com/
 
 **Remote Tools**
 1. Multi-Remote Next Generation - https://mremoteng.org/download
@@ -106,6 +111,11 @@
 1.  P2P File Transfer - https://www.sharedrop.io/
 2.  File Transfer Calculator - https://www.expedient.com/knowledgebase/tools-and-calculators/file-transfer-time-calculator/
 3.  Send Large Files Securely - https://www.dropsend.com/ , https://wetransfer.com/
+4.  330 Tools for Remote Work - https://docs.google.com/spreadsheets/d/1X3VmkgeRcdCW0FJ3vL05OOg59hNne0HvLp5TxG7mNm4/htmlview#
+5.  Design - https://www.canva.com/
+6.  ICON - https://icograms.com/designer
+7.  QUIRE visual collaborative platform - https://quire.io/
+8.  Whiteboard Online - https://witeboard.com/486643b0-606f-11eb-9c72-e7dcffcdf18e
 
 **Tips**
 1. The Best IT Career Advice from 111 Industry Gurus - https://www.flackbox.com/best-it-career-advice
