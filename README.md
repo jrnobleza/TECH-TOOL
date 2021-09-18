@@ -1,5 +1,29 @@
-# TECH-TOOL
-**TECH-TOOLS**
+# TECH-TOOLS
+
+**Network/Internet**
+1. Internet Speed Test - https://fast.com/
+2. SSL Test - https://www.ssllabs.com/ssltest/ , https://www.whynopadlock.com/
+3. Free website security check & malware scanner Test - https://sitecheck.sucuri.net/
+4. Port Forward Test - https://www.yougetsignal.com/tools/open-ports/
+5. Download Test Files - https://www.thinkbroadband.com/download
+6. Traceroute test - https://gf.dev/traceroute-test
+7. Site test - https://gf.dev/toolbox
+
+
+**Application Service Status**\
+1. AWS / Amazon - https://status.aws.amazon.com/
+2. Cisco Umbrella - https://status.umbrella.com/#/
+3. Cloudflare - https://www.cloudflarestatus.com/
+4. Facebook - https://status.fb.com/graph-api
+5. LinkedIn - https://linkedin.statuspage.io/
+6. Microsoft Office - https://portal.office.com/servicestatus
+7. Oracle - https://ocistatus.oraclecloud.com/
+8. SAP Cloud - https://www.sap.com/uk/about/trust-center/cloud-service-status.html
+9. Sonciwall - https://status.sonicwall.com/
+10. Watchguard - https://status.dnswatch.watchguard.com/
+11. Real-time problem & outage monitoring - https://downdetector.com/
+12. Status Consolidator - https://statusgator.com/users/sign_in#
+
 
 **Desktop/Laptop:**
 1. Keyboard Test - https://www.keyboardtester.com/tester.html
@@ -9,14 +33,7 @@
 5. HDD Test - https://hddscan.com/
 6. VGA Test - https://geeks3d.com/furmark/
 
-**Network**
-1. Internet Speed Test - https://fast.com/
-2. SSL Test - https://www.ssllabs.com/ssltest/ , https://www.whynopadlock.com/
-3. Free website security check & malware scanner Test - https://sitecheck.sucuri.net/
-4. Port Forward Test - https://www.yougetsignal.com/tools/open-ports/
-5. Download Test Files - https://www.thinkbroadband.com/download
-6. Traceroute test - https://gf.dev/traceroute-test
-7. Site test - https://gf.dev/toolbox
+
 
 **Windows Application**
 1. JAVA Dump Test - https://jstack.review/#tda_1_dump
