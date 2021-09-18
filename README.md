@@ -22,6 +22,7 @@
 15. Local Network IP - https://net.ipcalf.com/
 16. CurrPorts v2.65 - Monitoring Opened TCP/IP network ports  - https://www.nirsoft.net/utils/cports.html
 17. Packet Sender - https://packetsender.com/
+18.
 
 
 **WEB Services Checker**
@@ -57,6 +58,7 @@
 11. Lenovo Parts Lookup - https://support.lenovo.com/ph/en/partslookup
 12. Dell Product Support - https://www.dell.com/support/home/en-us?app=products
 13. Unwanted Program Checker - https://www.shouldiremoveit.com/
+14. CPU Info, Monitor, Test - https://www.cpuid.com/
 
 **SAP BASIS**
 1. SAP Support Portal - https://support.sap.com/en/index.html
@@ -82,6 +84,8 @@
 8. PDF Merge, split, rotate, convert tools - https://pdfsam.org/ , https://smallpdf.com/pdf-to-jpg , https://www.ilovepdf.com/pdf_to_jpg
 9. Everything. Locate files and folders by name instantly - https://www.voidtools.com/downloads/
 10. MacroRecorder - Record mouse and keyboard actions for infinite replay - https://www.macrorecorder.com/
+11. Notepad++ is a free source code editor - https://notepad-plus-plus.org/downloads/
+12. Desktop Creative Themes - https://www.deviantart.com/
 
 **Antivirus**
 1. File Scan Test - https://opentip.kaspersky.com/
@@ -89,6 +93,7 @@
 
 **Servers**
 1. RAID Calculator - http://www.raid-calculator.com/
+2. Server Windows Admin Free Tools - https://www.manageengine.com/products/free-windows-tools/free-windows-tools-thanks.html
 
 **Passwords**
 1. Secure Password Generator - https://passwordsgenerator.net/
@@ -115,6 +120,10 @@
 10. Router Emulators - https://highspeed.tips/routers/
 11. TENDA - https://www.tendacn.com/en/service/page/simulator.html
 12. TP LINK - https://www.tp-link.com/us/support/emulator/
+13. Ubiquiti - https://ispdesign.ui.com/#
+14. Sonicwall - https://livedemo.sonicwall.com/products/firewalls/#SonicOSDemo
+15. Fortinet - https://www.avfirewalls.com/Online-Demos.asp
+16. Best Network Simulation Tools - https://www.gns3network.com/best-network-simulation-tools/
 
 **Online Tools**
 1.  P2P File Transfer - https://www.sharedrop.io/
