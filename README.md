@@ -24,6 +24,9 @@
 17. Packet Sender - https://packetsender.com/
 18. DU Meter Internet monitor - https://www.hageltech.com/dumeter/download
 19. Port Forwarding Guides - http://www.pcwintech.com/port-forwarding-guides
+20. OpenvSwitch - http://www.openvswitch.org/download/
+21. Load Balancer - https://freeloadbalancer.com/download/
+22. OpenVPN - https://openvpn.net/
 
 
 **WEB Services Checker**
@@ -59,12 +62,13 @@
 11. Strelec Boot Disk Win 10 PE - https://sergeistrelec.ru/winpe-10-8-sergei-strelec-english/206-winpe-10-8-sergei-strelec-x86-x64-native-x86-20210721-english-version.html
 12. Lenovo Parts Lookup - https://support.lenovo.com/ph/en/partslookup
 13. Dell Product Support - https://www.dell.com/support/home/en-us?app=products
-14. Unwanted Program Checker - https://www.shouldiremoveit.com/
-15. CPU Info, Monitor, Test - https://www.cpuid.com/
-16. Windows Crash Report Tool - https://www.nirsoft.net/utils/what_is_hang.html
-17. BurnIn Test - https://www.passmark.com/products/burnintest/
-18. POWER SUPPLY CALCULATOR - https://www.coolermaster.com/power-supply-calculator/
-19. Proper laptop battery usage guide - https://batterycare.net/en/guide.html
+14. HP Product Support - https://support.hp.com/gb-en/checkwarranty
+15. Unwanted Program Checker - https://www.shouldiremoveit.com/
+16. CPU Info, Monitor, Test - https://www.cpuid.com/
+17. Windows Crash Report Tool - https://www.nirsoft.net/utils/what_is_hang.html
+18. BurnIn Test - https://www.passmark.com/products/burnintest/
+19. POWER SUPPLY CALCULATOR - https://www.coolermaster.com/power-supply-calculator/
+20. Proper laptop battery usage guide - https://batterycare.net/en/guide.html
 
 **SAP BASIS**
 1. SAP Support Portal - https://support.sap.com/en/index.html
@@ -109,6 +113,31 @@
 3. Back up your files -  http://www.worldbackupday.com/en/
 4. The Cloud Native Trail Map - https://landscape.cncf.io/
 5. Recover Files via CMD - https://www.minitool.com/data-recovery/recover-files-using-cmd-001.html
+6. HPE Warranty Status - https://support.hpe.com/hpsc/wc/public/home
+7. ClearOS - https://www.clearos.com/products/purchase/clearos-downloads
+
+**Storage**
+1. Open Media Vault - https://www.openmediavault.org/?page_id=77
+2. Emby - https://emby.media/download.html
+3. Kodi - https://kodi.tv/download/
+
+**Virtualization**
+1. oVirt - https://www.ovirt.org/
+2. Planet Virtual Tools - https://planet.virt-tools.org/
+3. SmartOS - https://www.joyent.com/smartos
+4. VirtualBox - https://www.virtualbox.org/wiki/Downloads
+5. Proxmox - https://proxmox.com/en/downloads
+6. VMware - https://www.vmware.com/products/vsphere-hypervisor.html
+7. Citrix - https://www.citrix.com/downloads/citrix-hypervisor/
+8. 
+
+**Monitoring**
+1. Cacti - https://www.cacti.net/info/downloads
+2. Paeessler - https://www.paessler.com/prtg
+3. Zabbix - https://www.zabbix.com/download
+4. Observium - https://docs.observium.org/
+5. Munin - https://munin-monitoring.org/download/
+6. Graylog - https://www.graylog.org/products/open-source#download-open
 
 **Passwords**
 1. Secure Password Generator - https://passwordsgenerator.net/
@@ -121,6 +150,8 @@
 4. WinScp - https://winscp.net/eng/download.php
 5. Putty - https://www.putty.org/
 6. Remote Utilities for Windows - https://www.remoteutilities.com/download/
+7. Apache Guacamole 1.3.0 - http://guacamole.apache.org/doc/gug/installing-guacamole.html
+8. 
 
 **Simulation Tool**
 1. Free EVENG Community Edition - https://www.eve-ng.net/index.php/download/#DL-COMM
@@ -140,6 +171,19 @@
 15. Fortinet - https://www.avfirewalls.com/Online-Demos.asp
 16. Best Network Simulation Tools - https://www.gns3network.com/best-network-simulation-tools/
 
+**Communication**
+1. Asterisk - https://www.asterisk.org/downloads/
+2. FreePBX - https://www.freepbx.org/downloads/
+3. 
+
+**Security**
+1. PFSense - https://www.pfsense.org/download/
+2. Sophos - https://www.sophos.com/en-us/products/free-tools/sophos-xg-firewall-home-edition.aspx
+3. Metiix Blockade - http://www.metiix.com/blockade/downloads
+4. SmoothWall - https://smoothwall.org/download.html
+
+
+
 **Online Tools**
 1.  P2P File Transfer - https://www.sharedrop.io/
 2.  File Transfer Calculator - https://www.expedient.com/knowledgebase/tools-and-calculators/file-transfer-time-calculator/
@@ -149,6 +193,7 @@
 6.  ICON - https://icograms.com/designer
 7.  QUIRE visual collaborative platform - https://quire.io/
 8.  Whiteboard Online - https://witeboard.com/486643b0-606f-11eb-9c72-e7dcffcdf18e
+9.  Stream Movies Free - https://www.plex.tv/watch-free/
 
 **Tips**
 1. The Best IT Career Advice from 111 Industry Gurus - https://www.flackbox.com/best-it-career-advice
