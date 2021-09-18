@@ -61,6 +61,12 @@
 
 **Windows Application**
 1. JAVA Dump Test - https://jstack.review/#tda_1_dump
+2. Lightscreen easy screenshot tool - https://lightscreen.com.ar/
+3. Roadkil's Unstoppable Copier - https://www.roadkil.net/program.php?ProgramID=29
+4. WinDirStat - Windows Directory Statistics - https://windirstat.net/download.html
+5. TreeSize Quick Windows Scan Directory - https://www.jam-software.com/treesize_free
+6. Wink (Create amazing screencasts and step-by-step video) - https://www.debugmode.com/wink/
+7. Free Online Screen Recorder - https://www.apowersoft.com/free-online-screen-recorder
 
 **Antivirus**
 1. File Scan Test - https://opentip.kaspersky.com/
@@ -71,6 +77,13 @@
 
 **Passwords**
 1. Secure Password Generator - https://passwordsgenerator.net/
+
+**Remote Tools**
+1. Multi-Remote Next Generation - https://mremoteng.org/download
+2. MobaXterm - https://mobaxterm.mobatek.net/download.html
+3. AnyDesk - https://anydesk.com/en/downloads/windows
+4. WinScp - https://winscp.net/eng/download.php
+5. Putty - https://www.putty.org/
 
 **Online Tools**
 1.  P2P File Transfer - https://www.sharedrop.io/
