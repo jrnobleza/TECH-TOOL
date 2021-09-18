@@ -16,6 +16,7 @@
 10. Email Generator / temporary email address - https://generator.email/
 11. Website Speed Test - https://tools.pingdom.com/
 12. Check Website Availability - https://www.site24x7.com/check-website-availability.html
+13. Public IP Checker - https://ipchicken.com/
 
 
 **Application Service Status**\
