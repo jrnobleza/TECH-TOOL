@@ -29,6 +29,7 @@
 22. OpenVPN - https://openvpn.net/
 23. Network Diagram - https://app.diagrams.net/
 24. Free SSL - https://zerossl.com/features/installation/
+25. SiteInspector - https://www.getsiteinspector.com/
 
 
 **WEB Services Checker**
@@ -86,6 +87,8 @@
 2. Unix Rosetta Stone - http://bhami.com/rosetta.html
 3. JSLinux Run Linux in your browser! - https://bellard.org/jslinux/
 4. Linux Distribution Timeline - https://github.com/FabioLolix/LinuxTimeline
+5. FileTransfer.sh (Transfer via command line) - https://transfer.sh/
+6.  Instant Terminal Sharing - https://tmate.io/
 
 **Windows Application**
 1. JAVA Dump Test - https://jstack.review/#tda_1_dump
@@ -132,7 +135,7 @@
  
 
 **Backup**
-1. Veeam - https://www.veeam.com/windows-endpoint-server-backup-free.html
+1. Veeam - https://www.veeam.com/windows-endpoint-server-backup-free.html / https://www.veeam.com/virtual-machine-backup-solution-free.html
 
 **Virtualization**
 1. oVirt - https://www.ovirt.org/
@@ -151,7 +154,7 @@
 4. Observium - https://docs.observium.org/
 5. Munin - https://munin-monitoring.org/download/
 6. Graylog - https://www.graylog.org/products/open-source#download-open
-7. 
+
 
 **Passwords**
 1. Secure Password Generator - https://passwordsgenerator.net/
@@ -165,7 +168,7 @@
 5. Putty - https://www.putty.org/
 6. Remote Utilities for Windows - https://www.remoteutilities.com/download/
 7. Apache Guacamole 1.3.0 - http://guacamole.apache.org/doc/gug/installing-guacamole.html
-8. 
+
 
 **Simulation Tool**
 1. Free EVENG Community Edition - https://www.eve-ng.net/index.php/download/#DL-COMM
@@ -188,7 +191,7 @@
 **Communication**
 1. Asterisk - https://www.asterisk.org/downloads/
 2. FreePBX - https://www.freepbx.org/downloads/
-3. 
+
 
 **Security**
 1. PFSense - https://www.pfsense.org/download/
@@ -197,21 +200,23 @@
 4. SmoothWall - https://smoothwall.org/download.html
 5. iSPY - https://www.ispyconnect.com/download.aspx
 
-
-
 **Online Tools**
 1.  P2P File Transfer - https://www.sharedrop.io/
-2.  File Transfer Calculator - https://www.expedient.com/knowledgebase/tools-and-calculators/file-transfer-time-calculator/
-3.  Send Large Files Securely - https://www.dropsend.com/ , https://wetransfer.com/
-4.  330 Tools for Remote Work - https://docs.google.com/spreadsheets/d/1X3VmkgeRcdCW0FJ3vL05OOg59hNne0HvLp5TxG7mNm4/htmlview#
-5.  Design - https://www.canva.com/
-6.  ICON - https://icograms.com/designer
-7.  QUIRE visual collaborative platform - https://quire.io/
-8.  Whiteboard Online - https://witeboard.com/486643b0-606f-11eb-9c72-e7dcffcdf18e
-9.  Stream Movies Free - https://www.plex.tv/watch-free/
-10. HomeLab Collection - https://www.reddit.com/r/homelab/comments/42zc51/homelab_collective_ressources_post/
-11. BlockDiag simple diagram images generator - http://blockdiag.com/en/
-12. Visio - http://www.visiocafe.com/
+2.  P2P File Transfer#2 - https://file.pizza/
+3.  File Transfer Calculator - https://www.expedient.com/knowledgebase/tools-and-calculators/file-transfer-time-calculator/
+4.  Send Large Files Securely - https://www.dropsend.com/ , https://wetransfer.com/
+5.  330 Tools for Remote Work - https://docs.google.com/spreadsheets/d/1X3VmkgeRcdCW0FJ3vL05OOg59hNne0HvLp5TxG7mNm4/htmlview#
+6.  Design - https://www.canva.com/
+7.  ICON - https://icograms.com/designer
+8.  QUIRE visual collaborative platform - https://quire.io/
+9.  Whiteboard Online - https://witeboard.com/486643b0-606f-11eb-9c72-e7dcffcdf18e
+10.  Stream Movies Free - https://www.plex.tv/watch-free/
+11. Site Collection #1 - https://www.reddit.com/r/homelab/comments/42zc51/homelab_collective_ressources_post/
+12. Site Collection #2 - https://github.com/awesome-selfhosted/awesome-selfhosted
+13. BlockDiag simple diagram images generator - http://blockdiag.com/en/
+14. Visio - http://www.visiocafe.com/
+15. Paste and Access Online (BIN) - https://bin.gy/
+16. Links Shorter - https://kutt.it/
 
 **Tips**
 1. The Best IT Career Advice from 111 Industry Gurus - https://www.flackbox.com/best-it-career-advice
