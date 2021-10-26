@@ -154,7 +154,7 @@
 4. Observium - https://docs.observium.org/
 5. Munin - https://munin-monitoring.org/download/
 6. Graylog - https://www.graylog.org/products/open-source#download-open
-
+7. Uptime Robot - https://uptimerobot.com/
 
 **Passwords**
 1. Secure Password Generator - https://passwordsgenerator.net/
