@@ -189,6 +189,7 @@
 14. Sonicwall - https://livedemo.sonicwall.com/products/firewalls/#SonicOSDemo
 15. Fortinet - https://www.avfirewalls.com/Online-Demos.asp
 16. Best Network Simulation Tools - https://www.gns3network.com/best-network-simulation-tools/
+17. Sandboxie (runs your programs in an isolated space) - https://sandboxie-plus.com/sandboxie/
 
 **Communication**
 1. Asterisk - https://www.asterisk.org/downloads/
