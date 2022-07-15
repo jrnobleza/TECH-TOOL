@@ -221,6 +221,14 @@
 15. Paste and Access Online (BIN) - https://bin.gy/
 16. Links Shorter - https://kutt.it/
 
+Website / Link Reputation Checker
+1. Kaspersky https://opentip.kaspersky.com/
+2. Trendmicro - https://global.sitesafety.trendmicro.com/
+3. Url Void - https://www.urlvoid.com/
+4. Virus Total - https://www.virustotal.com/gui/home/upload
+5. Google - https://transparencyreport.google.com/safe-browsing/search
+6. Psafe - https://www.psafe.com/dfndr-lab/
+
 **Tips**
 1. The Best IT Career Advice from 111 Industry Gurus - https://www.flackbox.com/best-it-career-advice
 2. The Busy Person's Guide to the Done List - https://app.idonethis.com/docs/The-Busy-Persons-Guide-to-the-Done-List.pdf
