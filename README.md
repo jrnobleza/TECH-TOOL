@@ -239,6 +239,7 @@
 **Latest Product Updates**
 1. Best products - https://www.producthunt.com/
 2. Discover what’s really happening online - https://www.similarweb.com/
+3. g2 - https://www.g2.com/compare
 
 Website / Link Reputation Checker
 1. Kaspersky https://opentip.kaspersky.com/
