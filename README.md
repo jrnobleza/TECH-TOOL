@@ -203,9 +203,25 @@
 4. SmoothWall - https://smoothwall.org/download.html
 5. iSPY - https://www.ispyconnect.com/download.aspx
 
+**File Transfer**
+1. MEGA - https://mega.io/
+2. DROPBOX - https://www.dropbox.com/
+3. RapidGator - https://rapidgator.net/site/index
+4. AnonFiles - https://anonfiles.com/
+5. 1 fichier - https://1fichier.com/
+6. Go File - https://gofile.io/welcome
+7. Mediafire - https://www.mediafire.com/
+8. We Transfer - https://wetransfer.com/
+9. ShareDrop - https://www.sharedrop.io/
+10. File Pizza - https://file.pizza/
+
+**URL Shortener**
+1. EXE.io - https://exe.io/
+2. Links Shorter - https://kutt.it/
+
 **Online Tools**
-1.  P2P File Transfer - https://www.sharedrop.io/
-2.  P2P File Transfer#2 - https://file.pizza/
+1.  Draw Online eSignature - https://signaturely.com/online-signature/draw/
+2.  Image Background Remover - https://www.photoroom.com/background-remover/
 3.  File Transfer Calculator - https://www.expedient.com/knowledgebase/tools-and-calculators/file-transfer-time-calculator/
 4.  Send Large Files Securely - https://www.dropsend.com/ , https://wetransfer.com/
 5.  330 Tools for Remote Work - https://docs.google.com/spreadsheets/d/1X3VmkgeRcdCW0FJ3vL05OOg59hNne0HvLp5TxG7mNm4/htmlview#
@@ -219,7 +235,7 @@
 13. BlockDiag simple diagram images generator - http://blockdiag.com/en/
 14. Visio - http://www.visiocafe.com/
 15. Paste and Access Online (BIN) - https://bin.gy/
-16. Links Shorter - https://kutt.it/
+16. Games Collab Online - https://kahoot.com/
 
 Website / Link Reputation Checker
 1. Kaspersky https://opentip.kaspersky.com/
