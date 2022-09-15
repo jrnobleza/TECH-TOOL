@@ -1,9 +1,5 @@
 # TECH-TOOLS
 
-**Latest Product Updates**
-1. Best products - https://www.producthunt.com/
-2. Discover what’s really happening online - https://www.similarweb.com/
-
 **Network/Internet**
 1. Internet Speed Test - https://fast.com/ ,  http://wifiman.com/
 2. SSL Test - https://www.ssllabs.com/ssltest/ , https://www.whynopadlock.com/ , https://www.sslshopper.com/ssl-checker.html
@@ -236,6 +232,10 @@
 14. Visio - http://www.visiocafe.com/
 15. Paste and Access Online (BIN) - https://bin.gy/
 16. Games Collab Online - https://kahoot.com/
+
+**Latest Product Updates**
+1. Best products - https://www.producthunt.com/
+2. Discover what’s really happening online - https://www.similarweb.com/
 
 Website / Link Reputation Checker
 1. Kaspersky https://opentip.kaspersky.com/
