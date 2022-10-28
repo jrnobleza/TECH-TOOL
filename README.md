@@ -254,4 +254,4 @@ Website / Link Reputation Checker
 2. The Busy Person's Guide to the Done List - https://app.idonethis.com/docs/The-Busy-Persons-Guide-to-the-Done-List.pdf
 3. How did you get your start as Linux Admin? - https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma/
 4. Practice to become a Windows sysadmin? - https://www.reddit.com/r/sysadmin/comments/3z7qd9/practice_to_become_a_windows_sysadmin/cyjynxh/
-
+5. Tracking all tech startup layoffs since COVID-19. - https://layoffs.fyi/
