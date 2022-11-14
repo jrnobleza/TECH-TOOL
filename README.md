@@ -43,7 +43,7 @@
 8. Microsoft Office - https://portal.office.com/servicestatus
 9. Microsoft Update Catalog - https://www.catalog.update.microsoft.com/home.aspx
 10. Oracle - https://ocistatus.oraclecloud.com/
-11. SAP Cloud - https://www.sap.com/uk/about/trust-center/cloud-service-status.html
+11. SAP Cloud - https://www.sap.com/uk/about/trust-center/cloud-service-status.html , https://status.support.sap.com/
 12. Sonicwall - https://status.sonicwall.com/
 13. Watchguard - https://status.dnswatch.watchguard.com/
 14. Real-time problem & outage monitoring - https://downdetector.com/
