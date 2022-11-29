@@ -213,6 +213,7 @@
 8. We Transfer - https://wetransfer.com/
 9. ShareDrop - https://www.sharedrop.io/
 10. File Pizza - https://file.pizza/
+11. Pastebin store any text online for easy sharing - https://pastebin.com/
 
 **URL Shortener**
 1. EXE.io - https://exe.io/
@@ -235,6 +236,7 @@
 14. Visio - http://www.visiocafe.com/
 15. Paste and Access Online (BIN) - https://bin.gy/
 16. Games Collab Online - https://kahoot.com/
+
 
 **Latest Product Updates**
 1. Best products - https://www.producthunt.com/
