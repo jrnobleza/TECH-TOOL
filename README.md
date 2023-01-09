@@ -90,6 +90,7 @@
 4. Linux Distribution Timeline - https://github.com/FabioLolix/LinuxTimeline
 5. FileTransfer.sh (Transfer via command line) - https://transfer.sh/
 6.  Instant Terminal Sharing - https://tmate.io/
+7. Linux Commands (MindMap) - https://xmind.app/m/WwtB/?utm_source=substack&utm_medium=email#
 
 **Windows Application**
 1. JAVA Dump Test - https://jstack.review/#tda_1_dump
