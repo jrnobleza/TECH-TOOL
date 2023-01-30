@@ -31,6 +31,7 @@
 28. Mail Server Test - https://www.wormly.com/test-smtp-server
 29. Instant Ping Test - https://www.dotcom-tools.com/ping-test
 30. Website Monitoring - https://www.uptrends.com/free-website-monitoring
+31. Web proxy - https://www.hidemyass-freeproxy.com/
 
 **WEB Services Checker**
 1. AWS / Amazon - https://status.aws.amazon.com/
