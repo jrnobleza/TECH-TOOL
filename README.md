@@ -32,6 +32,7 @@
 29. Instant Ping Test - https://www.dotcom-tools.com/ping-test
 30. Website Monitoring - https://www.uptrends.com/free-website-monitoring
 31. Web proxy - https://www.hidemyass-freeproxy.com/
+32. MS Edge Network Tools - https://learn.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/network/
 
 **WEB Services Checker**
 1. AWS / Amazon - https://status.aws.amazon.com/
