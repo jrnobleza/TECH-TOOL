@@ -258,6 +258,10 @@ Website / Link Reputation Checker
 Excel – The Ultimate Guide
 1. Vertex - https://www.vertex42.com/blog/excel-formulas/text-formulas-in-excel.html
 
+AI Tools
+1. https://chat.openai.com/chat
+2. https://platform.openai.com/playground/p/default-chat
+
 **Tips**
 1. The Best IT Career Advice from 111 Industry Gurus - https://www.flackbox.com/best-it-career-advice
 2. The Busy Person's Guide to the Done List - https://app.idonethis.com/docs/The-Busy-Persons-Guide-to-the-Done-List.pdf
