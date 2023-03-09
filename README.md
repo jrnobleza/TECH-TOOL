@@ -61,7 +61,9 @@
 6. Site24x7, Test the availability and performance of your website  - https://www.site24x7.com/check-website-availability.html
 7. GetSiteInspector, Open-source tool that helps to find spelling errors, grammatical errors, and broken links on websites - https://www.getsiteinspector.com/ 
 8. SimilarWeb, Analyze Your Competitive Landscape - https://www.similarweb.com/
-9. WP-Rocket, web Caching Plugin to boost your loading time (Paid tool) - https://wp-rocket.me/ 
+9. Google Analytics - https://analytics.google.com/analytics/web/provision/#/provision 
+10. WP-Rocket, web Caching Plugin to boost your loading time (Paid tool) - https://wp-rocket.me/ 
+11. PageSpeed - https://pagespeed.web.dev/
 
 **Desktop/Laptop:**
 1. Keyboard Test - https://www.keyboardtester.com/tester.html
