@@ -52,6 +52,16 @@
 15. Monitors the status of your favorite web services - https://www.isitdownrightnow.com/
 16. Status Consolidator - https://statusgator.com/users/sign_in#
 
+**Web Tools**
+1. Built With, Find out what websites are - https://builtwith.com/
+2. Tinypng, Smart WebP, PNG and JPEG compression - https://tinypng.com/
+3. Hubspot,  relationship management (CRM) platform tool - https://www.hubspot.com/ 
+4. Webpagetest, Site Performance Tester - https://www.webpagetest.org/
+5. Geekflare, Another alternative tool for Site Performance Tester  - https://geekflare.com/tools/toolbox
+6. Site24x7, Test the availability and performance of your website  - https://www.site24x7.com/check-website-availability.html
+7. GetSiteInspector, Open-source tool that helps to find spelling errors, grammatical errors, and broken links on websites - https://www.getsiteinspector.com/ 
+8. SimilarWeb, Analyze Your Competitive Landscape - https://www.similarweb.com/
+9. WP-Rocket, web Caching Plugin to boost your loading time (Paid tool) - https://wp-rocket.me/ 
 
 **Desktop/Laptop:**
 1. Keyboard Test - https://www.keyboardtester.com/tester.html
