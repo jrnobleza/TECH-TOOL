@@ -253,6 +253,7 @@
 15. Paste and Access Online (BIN) - https://bin.gy/
 16. Games Collab Online - https://kahoot.com/
 17. Youtube Downloader - https://www.y2mate.com/en450
+18. AWS & Azure Diagram - https://www.cloudcraft.co/
 
 
 **Latest Product Updates**
