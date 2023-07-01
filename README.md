@@ -274,6 +274,9 @@ Website / Link Reputation Checker
 Excel – The Ultimate Guide
 1. Vertex - https://www.vertex42.com/blog/excel-formulas/text-formulas-in-excel.html
 
+Cisco Command Tools
+1. Using the Cisco IOS Command-Line Interface - https://www.cisco.com/c/en/us/td/docs/routers/ios/config/17-x/syst-mgmt/b-system-management/m_cf-cli-basics.html
+
 AI Tools
 1. https://chat.openai.com/chat
 2. https://platform.openai.com/playground/p/default-chat
