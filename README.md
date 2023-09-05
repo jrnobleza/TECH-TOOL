@@ -51,6 +51,7 @@
 14. Real-time problem & outage monitoring - https://downdetector.com/
 15. Monitors the status of your favorite web services - https://www.isitdownrightnow.com/
 16. Status Consolidator - https://statusgator.com/users/sign_in#
+17. Public Cloud Services Comparison - https://comparecloud.in/
 
 **Web Tools**
 1. Built With, Find out what websites are - https://builtwith.com/
