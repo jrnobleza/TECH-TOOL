@@ -258,13 +258,16 @@
 18. AWS & Azure Diagram - https://www.cloudcraft.co/
 19. Domain NamES - https://porkbun.com/awesome
 
+**Online Trainings - Servers, Networks**
+1. Troubleshoot and make a sad server happy - https://sadservers.com/
+2. [The] Learning Platform to Master Cloud Native Craft - https://labs.iximiuz.com/
 
 **Latest Product Updates**
 1. Best products - https://www.producthunt.com/
 2. Discover what’s really happening online - https://www.similarweb.com/
 3. g2 - https://www.g2.com/compare
 
-Website / Link Reputation Checker
+**Website / Link Reputation Checker**
 1. Kaspersky https://opentip.kaspersky.com/
 2. Trendmicro - https://global.sitesafety.trendmicro.com/
 3. Url Void - https://www.urlvoid.com/
@@ -272,13 +275,13 @@ Website / Link Reputation Checker
 5. Google - https://transparencyreport.google.com/safe-browsing/search
 6. Psafe - https://www.psafe.com/dfndr-lab/
 
-Excel – The Ultimate Guide
+**Excel – The Ultimate Guide**
 1. Vertex - https://www.vertex42.com/blog/excel-formulas/text-formulas-in-excel.html
 
-Cisco Command Tools
+**Cisco Command Tools**
 1. Using the Cisco IOS Command-Line Interface - https://www.cisco.com/c/en/us/td/docs/routers/ios/config/17-x/syst-mgmt/b-system-management/m_cf-cli-basics.html
 
-AI Tools
+**AI Tools**
 1. https://chat.openai.com/chat
 2. https://platform.openai.com/playground/p/default-chat
 
