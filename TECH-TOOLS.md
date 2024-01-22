@@ -26,7 +26,7 @@
 23. Network Diagram - https://app.diagrams.net/
 24. Free SSL - https://zerossl.com/features/installation/
 25. SiteInspector - https://www.getsiteinspector.com/
-26. DNS Checker - https://www.whatsmydns.net/ , https://tools.keycdn.com/dig , https://dnschecker.org/all-dns-records-of-domain.php , https://dnschecker.org/all-tools.php
+26. DNS Checker - https://www.whatsmydns.net/ , https://tools.keycdn.com/dig , https://dnschecker.org/all-dns-records-of-domain.php , https://dnschecker.org/all-tools.php, https://securitytrails.com/
 27. Who Is - https://who.is/ , https://whois.domaintools.com/ 
 28. Mail Server Test - https://www.wormly.com/test-smtp-server
 29. Instant Ping Test - https://www.dotcom-tools.com/ping-test
