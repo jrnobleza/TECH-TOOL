@@ -97,6 +97,7 @@
 5. Basis Daily Monitoring T-Codes - https://blogs.sap.com/2020/10/19/basis-daily-monitoring-t-codes/
 6. SAP Monitoring & Performance Checks: Complete Tutorial with Tcodes - https://www.guru99.com/system-monitoring-performance-checks.html
 7. Performance Tuning - https://blogs.sap.com/2016/06/19/performance-tuning/
+   
 
 **Linux**
 1. Explain shell command - https://explainshell.com/
@@ -261,6 +262,7 @@
 **Online Trainings - Servers, Networks**
 1. Troubleshoot and make a sad server happy - https://sadservers.com/
 2. [The] Learning Platform to Master Cloud Native Craft - https://labs.iximiuz.com/
+3. System Administration for Smarties - https://terwal.fr/index.html
 
 **Latest Product Updates**
 1. Best products - https://www.producthunt.com/
