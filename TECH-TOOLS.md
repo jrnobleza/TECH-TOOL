@@ -234,6 +234,9 @@
 10. File Pizza - https://file.pizza/
 11. Pastebin store any text online for easy sharing - https://pastebin.com/
 
+**VPN**
+1. OpenConnect/PrivateVPN - https://intercom.help/privatevpn/en/articles/6366468-openconnect-setup-guide-for-windows, https://intercom.help/privatevpn/en/
+   
 **URL Shortener**
 1. EXE.io - https://exe.io/
 2. Links Shorter - https://kutt.it/
