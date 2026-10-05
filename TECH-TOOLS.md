@@ -297,3 +297,6 @@
 4. Practice to become a Windows sysadmin? - https://www.reddit.com/r/sysadmin/comments/3z7qd9/practice_to_become_a_windows_sysadmin/cyjynxh/
 5. Tracking all tech startup layoffs since COVID-19. - https://layoffs.fyi/
 6. Expert Advise - https://blogs.sap.com/2013/07/03/how-to-transform-yourself-from-fresher-to-staunch-sap-consultant/
+
+**A Curated Collection of Digital Archive**
+1. Cloud & Datacenters - https://magazine.w.media/ , https://magazine.w.media/view/cd-magazine-oct-dec-2026-14
